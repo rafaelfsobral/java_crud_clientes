@@ -25,6 +25,3 @@ CREATE TABLE cliente (
 	cpf VARCHAR(11)
 );
 
-
-# java_crud_clientes
-# java_crud_clientes
