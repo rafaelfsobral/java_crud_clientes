@@ -22,6 +22,6 @@ CREATE TABLE cliente (
     nome VARCHAR(150),
     email VARCHAR(100),
     telefone VARCHAR(15),
-	cpf VARCHAR(11)
+    cpf VARCHAR(11)
 );
 
